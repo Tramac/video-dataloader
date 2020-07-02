@@ -52,7 +52,7 @@ ucf101
 ## TODO
 
 - [ ] Split train/val/test
-- [ ] More 
+- [ ] More easy-to-use
 - [ ] More dataloader
 - [ ] Elegant code
 
